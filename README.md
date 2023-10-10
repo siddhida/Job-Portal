@@ -1,2 +1,2 @@
 # Job-Portal
-Project done by Siddhida and Harish Ponna
+Project done by Siddhida
